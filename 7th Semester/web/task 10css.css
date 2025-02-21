@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+#f{
+    color: red;
+}
+#t{
+    color:green;
+}
+#g{
+    color: blue;
+}
+.box{
+    height: 200px;
+    width: 200px;
+}
+p{
+    font-weight: normal;
+    text-align: left;
+   
+}
+#first{
+background-color: red;
+}
+#second{
+    background-color: skyblue;
+    }
+    #third{
+        background-color: orange;
+        }
